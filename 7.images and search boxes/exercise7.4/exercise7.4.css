@@ -1,0 +1,12 @@
+.search {
+  font-size: 20px;
+  padding-left: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-color: rgb(212, 212, 212);
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 2px;
+  font-family: Arial;
+  color: gray;
+}
