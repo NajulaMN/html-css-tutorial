@@ -1,0 +1,38 @@
+p,input,button {
+  font-family:Arial;
+}
+
+p {
+  color: black;
+  font-size: 35px;
+  margin-bottom: 20px;
+}
+
+input {
+  display: block;
+  border: none;
+  background-color: rgb(226, 222, 222);
+  border-radius: 3px;
+  margin-bottom: 7px;
+  height: 40px;
+  width: 330px;
+}
+
+button {
+  margin-top: 20px;
+  margin-right: 10px;
+  height: 40px;
+  padding-left: 15px;
+  padding-right: 15px;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: black;
+  color: white;
+}
+
+.button2 {
+  background-color: rgb(226, 222, 222);
+  border: none;
+}
