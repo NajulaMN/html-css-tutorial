@@ -16,16 +16,25 @@ p {
 
 .search {
   width: 400px;
+  font-size: 18px;
+  border-color: rgb(134, 117, 117);
+  margin-bottom: 20px;
+  border-style: solid;
+  height: 20px;
+  border-radius: 5px;
+
 }
 
 .status {
   font-size: 14px;
   color: rgb(80, 79, 79);
   margin-top: 5px;
+  display: inline-block;
 }
 
 .writer{
   font-size: 14px;
   color: rgb(80, 79, 79);
   margin-top: 20px;
+  display: inline-block;
 }
