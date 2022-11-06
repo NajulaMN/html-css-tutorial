@@ -1,0 +1,52 @@
+p {
+  font-family: Arial;
+}
+
+.title {
+  
+  font-weight: bold;
+  font-size: 18px;
+  width: 300px;
+  line-height: 25px;
+  margin-bottom: 0px;
+}
+
+.status {
+  font-size: 14px;
+  color: rgb(80, 79, 79);
+  margin-top: 5px;
+  
+}
+
+.writer{
+  font-size: 14px;
+  color: rgb(80, 79, 79);
+  margin-top: 20px;
+  
+}
+
+.text{
+  font-size: 14px;
+  color: rgb(80, 79, 79);
+  margin-top: 15px;
+  width: 280px;
+  line-height: 20px;
+}
+
+.description {
+  font-size: 14px;
+  color: white;
+  margin-top: 110px;
+  background-color: #E34140;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  text-align: center;
+}
+
+.alink {
+  cursor: pointer;
+}
+
+.alink:hover {
+  text-decoration: underline;
+}
