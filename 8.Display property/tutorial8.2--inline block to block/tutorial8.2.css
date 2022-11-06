@@ -1,0 +1,31 @@
+p {
+  font-family: Arial;
+}
+
+.thumbnail {
+  display: block;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 18px;
+  width: 300px;
+  line-height: 25px;
+  margin-bottom: 0px;
+}
+
+.search {
+  width: 400px;
+}
+
+.status {
+  font-size: 14px;
+  color: rgb(80, 79, 79);
+  margin-top: 5px;
+}
+
+.writer{
+  font-size: 14px;
+  color: rgb(80, 79, 79);
+  margin-top: 20px;
+}
