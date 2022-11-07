@@ -1,0 +1,38 @@
+div {
+  text-align: center;
+}
+
+.logo {
+  width: 300px;
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+.search {
+  font-size: 15px;
+  margin-top: 0px;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 450px;
+  border: none;
+  border-radius: 20px;
+  border-width: 2px;
+  box-shadow: 0 1px 5px rgba(5, 5, 5, 0.25);
+  margin-bottom: 30px;
+}
+
+.tea {
+  margin-top: 20px;
+}
+
+.b1 {
+  border-color: rgba(177, 177, 177, 0.048);
+  border-style: solid;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-right: 10px;
+  cursor: pointer;
+}
